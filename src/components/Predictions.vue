@@ -45,10 +45,6 @@ export default {
             {
                 position: 'left:50%;top:0;',
                 message: 'Печень это унисекс'
-            },
-            {
-                position: 'left:50%;top:0;',
-                message: 'Суслики! Они ебутся 2 секунды&nbsp;— я засекал!'
             }
         ],
         answerTimeout: null,
