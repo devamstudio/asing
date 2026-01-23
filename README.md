@@ -1,26 +1,7 @@
-# asing
+# Asing
 
-![build status](https://travis-ci.org/devamstudio/asing.svg?branch=master)
+Зайди и узнай! Но ничем хорошим это не кончится.
 
-## Project setup
-```
-npm install
-```
+# Todo
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[] — Добавить чувака в новой графике.
